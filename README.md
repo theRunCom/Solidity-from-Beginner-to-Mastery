@@ -6,11 +6,15 @@
 
 <div align="center">
 
-https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fthe_RunCom
+[![Tweet][tweet-image]][tweet-url]
 
 [![license][license-image]][license-url]
 
 👉 English | [简体中文](README-zh_CN.md)
+
+[tweet-image]: https://img.shields.io/twitter/url/http/shields.io.svg?style=social
+
+[tweet-url]: https://twitter.com/the_RunCom
 
 [license-image]: http://img.shields.io/badge/license-MIT-blue.svg
 

@@ -2,9 +2,19 @@
     <img src="./pics/logo.png">
 </p>
 
-# Solidity-from-Beginner-to-Mastery（更新中……）🔥
+<h1 align="center">Solidity-from-Beginner-to-Mastery（更新中……）🔥</h1>
+
+<div align="center">
+
+[![license][license-image]][license-url]
 
 [English](README.md) | 👉 简体中文
+
+[license-image]: http://img.shields.io/badge/license-MIT-blue.svg
+
+[license-url]: https://github.com/theRunCom/Solidity-from-Beginner-to-Mastery/blob/master/LICENSE
+
+</div>
 
 1. 语言概述：介绍该语言的起源、发展历史、语言特点等,让学习者对该语言有一个大致的了解。
 

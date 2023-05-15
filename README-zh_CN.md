@@ -6,9 +6,7 @@
 
 <div align="center">
 
-[![Tweet][tweet-image]][tweet-url]
-
-[![license][license-image]][license-url]
+[![Tweet][tweet-image]][tweet-url] | [![license][license-image]][license-url]
 
 [English](README.md) | 👉 简体中文
 

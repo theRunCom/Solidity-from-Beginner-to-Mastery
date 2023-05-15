@@ -6,6 +6,8 @@
 
 <div align="center">
 
+https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fthe_RunCom
+
 [![license][license-image]][license-url]
 
 👉 English | [简体中文](README-zh_CN.md)

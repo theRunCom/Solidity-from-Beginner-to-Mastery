@@ -2,7 +2,7 @@
     <img src="./pics/logo.png">
 </p>
 
-# Solidity-from-Beginner-to-Mastery（Updating……）
+# Solidity-from-Beginner-to-Mastery（Updating……）🔥
 
-English | [简体中文](README-zh_CN.md)
+👉 English | [简体中文](README-zh_CN.md)
 

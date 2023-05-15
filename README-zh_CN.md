@@ -2,9 +2,9 @@
     <img src="./pics/logo.png">
 </p>
 
-# Solidity-from-Beginner-to-Mastery（更新中……）
+# Solidity-from-Beginner-to-Mastery（更新中……）🔥
 
-[English](README.md) | 简体中文
+[English](README.md) | 👉 简体中文
 
 1. 语言概述：介绍该语言的起源、发展历史、语言特点等,让学习者对该语言有一个大致的了解。
 

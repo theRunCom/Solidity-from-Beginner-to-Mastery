@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Tweet][tweet-image]][tweet-url] | [![license][license-image]][license-url]
+[![Tweet][tweet-image]][tweet-url] [![license][license-image]][license-url] ![](https://img.shields.io/github/stars/theRunCom/Solidity-from-Beginner-to-Mastery?style=plastic)
 
 👉 English | [简体中文](README-zh_CN.md)
 
